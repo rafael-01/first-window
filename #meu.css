@@ -1,0 +1,14 @@
+body{
+    background-image: url("https://dawnchuwish.files.wordpress.com/2014/12/puzzle.jpg" );
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#area_nome{
+    position: relative;
+  left: 34%;
+  top: 29%;
+  width: 320px;
+  height: 270px;
+  padding: 105px 0px 15px 9px;
+}

@@ -1,0 +1,72 @@
+body{
+    background-image: url("https://dawnchuwish.files.wordpress.com/2014/12/puzzle.jpg" );
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#area{
+  position: relative;
+  left: 34%;
+  top: 29%;
+  width: 320px;
+  height: 270px;
+  padding: 105px 0px 15px 9px;
+}
+#area #formulario{
+  position: absolute;
+  display: block;
+  left: 19%;
+  
+}
+
+}
+legend{
+  font-style: bold;
+  font-family: "candara"; 
+  text-align: center;
+  padding: 0px 0px 15px 9px;
+  background-color: grey;
+}
+#formulario input.campo_nome{
+  position: absolute;
+  left:95px;
+  left: 19%;
+  top: 23px;
+  width: 225px;
+  opacity: 0.5;
+  padding: 25px 2px 15px 9px;
+}
+#formulario input.campo_senha{
+  position: absolute;
+  left:95px;
+  left: 19%;
+  margin-top: 20px;
+  width: 225px;
+  opacity: 0.5;
+  padding: 25px 0px 15px 9px;
+}
+h1{
+  position: absolute;
+  left:95px;
+  left: 42%;
+  margin-top: 10px;
+  width: 225px;
+  opacity: 0.5;
+  padding: 65px 0px 15px 9px;
+  font-family: 'Roboto Slab';font-size: 39px; 
+}
+#botao_confirmar{
+  position: absolute;
+  right:95px;
+  left: 41%;
+  top: 282px;
+  width: 225px;
+}
+#esqueceu_senha{
+  position: absolute;
+  right: 9px;
+  left: 7100%;
+  top: 282px;
+  width: 225px;
+  color: grey;
+}
